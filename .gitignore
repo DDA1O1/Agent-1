@@ -1,0 +1,26 @@
+# GCP Credentials
+*-my-project-credentials.json
+*.json
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo 
+
+# Environment variables
+.env
+

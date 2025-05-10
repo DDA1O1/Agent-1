@@ -20,8 +20,6 @@ from ruler_calibration_tool import calibrate_ruler_from_image_data
 
 # --- Configuration ---
 GCS_BUCKET_NAME = os.getenv("GCS_BUCKET_NAME")
-GCP_PROJECT_ID = os.getenv("GCP_PROJECT_ID")
-GCP_REGION = os.getenv("GCP_REGION")
 
 
 class ImageProcessingAgent:
